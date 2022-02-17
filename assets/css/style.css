@@ -19,3 +19,38 @@ header, #main {
   font-weight: 700;
   margin-bottom: 24px;
 }
+
+.heading {
+  font-weight: 700;
+  margin-bottom: 16px;
+  font-size: 24px;
+}
+
+.card {
+  border-radius: 8px;
+  width: 268px;
+}
+
+#why-us .card img {
+  width: 32px;
+  height: 32px;
+  margin-bottom: 16px;
+}
+
+#why-us .card h5 {
+  font-weight: 700;
+  margin-bottom: 16px;
+}
+
+#why-us .card p {
+  font-weight: 300;
+  margin-bottom: 14px;
+}
+
+#why-us .card {
+  padding: 20px;
+}
+
+#card-group {
+  margin-top: 40px;
+}
