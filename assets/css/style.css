@@ -2,6 +2,10 @@
   font-family: Helvetica, sans-serif;
 }
 
+section {
+  margin-bottom: 100px;
+}
+
 header, #main {
   background-color: #F1F3FF;
 }
@@ -54,3 +58,30 @@ header, #main {
 #card-group {
   margin-top: 40px;
 }
+
+.testimonial-name {
+  font-weight: 700;
+  font-size: 14px;
+}
+
+.testi {
+  width: 619px;
+  height: 270px;
+  background-color: #F1F3FF;
+  border-radius: 8px;
+  padding: 30px 32px;
+  
+}
+
+.user-image {
+  width: 80px;
+  margin: 50px ;
+}
+
+.carousel-control {
+  width: 32px;
+  background-color: #fff;
+  border: 0;
+  margin: 10px;
+}
+
