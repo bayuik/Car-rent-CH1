@@ -1,0 +1,12 @@
+* {
+  font-family: Helvetica, sans-serif;
+}
+
+header, #main {
+  background-color: #F1F3FF;
+}
+
+#main-title {
+  font-weight: 700;
+  /* font-size: 36px; */
+}
