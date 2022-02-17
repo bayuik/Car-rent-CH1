@@ -10,8 +10,10 @@ header, #main {
   background-color: #F1F3FF;
 }
 
-#main-title {
+.heading-title {
   font-weight: 700;
+  font-size: 36px;
+  margin-bottom: 16px;
 }
 
 .tick {
@@ -70,7 +72,6 @@ header, #main {
   background-color: #F1F3FF;
   border-radius: 8px;
   padding: 30px 32px;
-  
 }
 
 .user-image {
@@ -85,3 +86,14 @@ header, #main {
   margin: 10px;
 }
 
+#getting-started {
+  background-color: #0D28A6;
+  border-radius: 13px;
+  color: #fff;
+  padding: 64px;
+}
+
+#getting-started p {
+  width: 468px;
+  margin-bottom: 52px;
+}
