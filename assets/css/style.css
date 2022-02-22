@@ -154,16 +154,3 @@ footer img {
   position: relative;
   width: 33.33333333%;
 }
-
-/* .show-neighbors .carousel-item-next:not(.carousel-item-left),
-.show-neighbors .carousel-item-right.active {
-  -webkit-transform: translate3d(33%, 0, 0);
-  transform: translate3d(100%, 0, 50);
-  transition: 1ms;
-}
-.show-neighbors .carousel-item-prev:not(.carousel-item-right),
-.show-neighbors .carousel-item-left.active {
-  -webkit-transform: translate3d(-33%, 0, 0);
-  transform: translate3d(-100%, 0, 50);
-  transition: 1ms;
-} */
